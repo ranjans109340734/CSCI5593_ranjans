@@ -1,0 +1,4 @@
+
+cp -a /source/. /dest/
+
+copy from source al files and folders to destination
